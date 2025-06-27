@@ -4,7 +4,7 @@
 
 ### Стек: MVVM | Figma | Android Studio | Kotlin | Jetpack Compose | PostgreSQL (через Supabase) | Ktor(клиент-сервер) через REST API
 
-### [Скачать приложение «haha.ru»](https://github.com/duffyate/haha.ru/releases/download/app/haha_ru.apk)
+### [☛ Скачать «haha.ru» ☚](https://github.com/duffyate/haha.ru/releases/download/app/haha_ru.apk)
 
 ---
 
